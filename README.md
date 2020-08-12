@@ -4,7 +4,7 @@ Video: https://www.youtube.com/watch?v=ECuqb5Tv9qI
 Code: https://github.com/codeSTACKr/codeSTACKr
 -->
 
-### Hi there, I'm Zulkafil [website] 👋
+### Hi there, I'm [Zulkafil][website] 👋
 
 ## About
 - 🌱 I’m currently taking a deep dive into programming, machine learning and robotics.
