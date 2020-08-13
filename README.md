@@ -30,6 +30,7 @@ Code: https://github.com/codeSTACKr/codeSTACKr
 
 ### Stack
 [<img align="left" alt="NumPy" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" />][website]
+[<img align="left" alt="Numba" width="56px" src="https://numba.pydata.org/_static/numba-blue-horizontal-rgb.svg" />][website]
 [<img align="left" alt="Matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />][website]
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][website]
 [<img align="left" alt="ROS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" />][website]
