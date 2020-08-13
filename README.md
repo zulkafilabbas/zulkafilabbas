@@ -24,7 +24,7 @@ Code: https://github.com/codeSTACKr/codeSTACKr
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][website]
 [<img align="left" alt="ROS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" />][website]
-[<img align="left" alt="PyBullet" width="32px" src="https://leggedrobotics.github.io/SimBenchmark/about/bullet-physics-logo.png" />][website]
+[<img align="left" alt="PyBullet" width="64px" src="https://leggedrobotics.github.io/SimBenchmark/about/bullet-physics-logo.png" />][website]
 
 
 [website]: https://zulkafilabbas.github.io/
